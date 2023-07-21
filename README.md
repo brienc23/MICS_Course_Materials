@@ -1,5 +1,5 @@
 # MICS_Course_Materials
-Collection of Course Materials for an USNA Cyber Science elective course
+Collection of Course Materials for an USNA Cyber Science elective course Covering Maritime Industrial Control System (MICS) Cybersecurity
 
 History:
 Course was first offered in Spring AY2023
