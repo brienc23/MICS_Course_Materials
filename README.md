@@ -6,6 +6,8 @@ Course was first offered in Spring AY2023
 
 Published as part of a Maritime Communication and Security (MarCaS) Workshop at the 48th IEEE Conference on Local Computer Networks (LCN)
 
+Link to slides: https://docs.google.com/presentation/d/1HBAPE9uCShDrA7rpLvvwIaBPELRNk_i5/edit?usp=drive_link&ouid=103967521996064562276&rtpof=true&sd=true
+
 If you use, please cite the following paper:
 
 Croteau, Brien. "Lessons Learned from Teaching a Maritime Industrial Control Systems Cybersecurity Course." In 2023 IEEE 48th Conference on Local Computer Networks (LCN), pp. 1-6. IEEE, 2023.
